@@ -9,3 +9,7 @@ alias lla='ls -la'
 alias gs='git status'
 alias gcommit='git commit'
 alias gadd='git add'
+
+# nvim
+alias nv='nvim'
+alias nve='nvim .'
